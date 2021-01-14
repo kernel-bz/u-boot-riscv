@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CC="arm-linux-gnueabihf-"
-VERSION="v2021.01"
+VERSION="v2021.01-am335x"
 #DTB="am335x-sg4000.dtb"
 CFG="am335x_boneblack_vboot_defconfig"
 #CFG="am335x_evm_defconfig"
